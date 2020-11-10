@@ -1,0 +1,37 @@
+{
+  "name": "YitnoAnnafi",
+  "short_name": "YitnoAnnafi",
+  "start_url": "https://yitnoannafi.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://gp3.googleusercontent.com/ktTufINtqfQXCsNsSxp_TwILV05W01QKmjmY-R_6YjMlKvLJATrOBsuhSg1OGmCt-6RyBhGicxcA3vYnjiPqehmXRmWTbIWemcGf5ByS=s48-rw",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/L5rNq8Q9IdiAs898fB199wgKmz3oSVWOj8RWyo7jjf8an28WISxLkhQfGY-ClQqJ_7K4CP0WEyA4GSavtpcT7TxS9Xd6C0yPmhAFNHyQ=s72-rw",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/gao1j4B3USFpDn3pnqJ7XF9Tmb_ZlCFoV3NthLs__IbtnSkr4kSvg-vujUsMKIJJ8ecvl8kpTrbwkLEQBnXu6QqbwhouH--Rsa7rKCTa=s96-rw",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/eJguq4R2D9suhgVAYkGfSBzeHT3CAoUHBoG4PzPgqO6HJN1fC1lvxv1sV9YkxvePa6PWLBXPGVu1H6deb1S92LtqlWshk_aOE4aaSHKG=s144-rw",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/SCSIuxQRlmuiGPJDhOFNc_HGEThKqz2Dnr_oTsJ1BmvXCjeFHcz2pwisMO8IzkNLnnEbRWRGZyUZQQZ13GASe-tbWEVHM7QGH1GdBqT-=s168-rw",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/QQzfBv50sZ07wD0rxy3YlDs1lsIbLAVI6fW_Ee1FpK3JB6gDloZBn1FU-DUfGQhkOUd288QPaDYogFg4hHw5bUt4vqDIzMF3g0Ym4R-D=s192-rw",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/QAV9e7wJE65JZf3S1LkfveEtqZ3SeqwbnSymjItrTwcOfa8EwriNH9GcxD1HMmFNi9Lka4duHboEy7Swp5xfIi8XavCOv1wXmPrELCi8=s220-rw",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
